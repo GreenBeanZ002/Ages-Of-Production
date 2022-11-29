@@ -85,6 +85,7 @@ class Menu(Enum):
     BUILD2 = auto()
     PHARMACY = auto()
     FESTIVALTENT = auto()
+    GOLDENSTATUE = auto()
 
     BREAKDOWN = auto()
     PEOPLE_BREAKDOWN = auto()
